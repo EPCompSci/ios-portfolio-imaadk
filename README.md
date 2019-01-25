@@ -12,6 +12,9 @@ Eggs With Legs is a two-dimensional platformer game based on the popular Bloons 
 - Streamlining User Mechanics (image movement, latency, button placement, etc.)
 - "Devil-ed Egg" artwork and image movement
 
+2) [Tic-Tac Foe](https://github.com/imaadk/Tic-Tac-Foe)
+
+Tic-Tac Foe is a game of Tic-Tac Toe that uses Apple's ARKit 2 protocol to simulate a virtual board game, complete with user interface buttons, text, and a basic augmented opponent. 
 
 
 
