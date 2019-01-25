@@ -1,12 +1,18 @@
 # iOS-Portfolio
 2018-2019 Portfolio
 
-Using this space as the home base for your portfolio, make a wiki or pages like this read me to highlight what you have learned / created over this semester of class. You should consider this as much for your grade as your resume. You've got incredible work to highlight and brag about - do that here. 
+Over the last 5 months, I've researched some very impressive and robust mechanics of user experience, usability, and future-proofing. In learning about these products and how they work, I have also pushed myself to develop alongside these miracles of imagination, and test the limits of what a consumer product can be.
 
-I'd like you to consider this assignment as a way to get a job / internship / independent contract with someone outside the school.
+The following is a list of the products borne of these past few months. 
 
-Create links to group projects (create a new repo for completed apps) you've been working on, making sure the read me's have details about what the apps do in the format the app store asks - look at a couple apps to see what I'm talking about. Don't forget about those first simple apps you created - they still matter!
+[Eggs With Legs](https://github.com/chauphana/Eggs-with-Legs) 
+Eggs With Legs is a two-dimensional platformer game based on the popular Bloons Tower Defense franchise. I assisted in the following processes of development:
+- Debugging 
+- Streamlining User Mechanics (image movement, latency, button placement, etc.)
+- "Devil-ed Egg" artwork and image movement
 
-Link to my project1 - 
 
-What am I doing with my life
+
+
+
+
