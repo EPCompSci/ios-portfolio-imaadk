@@ -16,6 +16,10 @@ Eggs With Legs is a two-dimensional platformer game based on the popular Bloons 
 
 Tic-Tac Foe is a game of Tic-Tac Toe that uses Apple's ARKit 2 protocol to simulate a virtual board game, complete with user interface buttons, text, and a basic augmented opponent. 
 
+3) [Lava](https://github.com/imaadk/Lava)
+
+Lava is a basic test program built from Apple's original ARKit used to detect a level plane in the real world and overlay an image in its axis. Don't touch the floor. 
+
 
 
 
