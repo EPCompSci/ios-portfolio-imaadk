@@ -20,6 +20,11 @@ Tic-Tac Foe is a game of Tic-Tac Toe that uses Apple's ARKit 2 protocol to simul
 
 Lava is a basic test program built from Apple's original ARKit used to detect a level plane in the real world and overlay an image in its axis. Don't touch the floor. 
 
+4) [Cube](https://github.com/imaadk/Cube/upload)
+
+This application is a full-sized augmented reality Rubiks cube, used to put on a detected level plane and enjoyed as a regular toy. Additions include changing of color hues in the 2x2 grids of each surface, and black plane to distinguish camera to end user. 
+
+These projects reflect my learning over the semester, and have set me on the path to create and publish my own augmented reality programs and other applications in the near future.
 
 
 
