@@ -5,7 +5,7 @@ Over the last 5 months, I've researched some very impressive and robust mechanic
 
 The following is a list of the products borne of these past few months. 
 
-[Eggs With Legs](https://github.com/chauphana/Eggs-with-Legs) 
+1) [Eggs With Legs](https://github.com/chauphana/Eggs-with-Legs) 
 
 Eggs With Legs is a two-dimensional platformer game based on the popular Bloons Tower Defense franchise. I assisted in the following processes of development:
 - Debugging 
